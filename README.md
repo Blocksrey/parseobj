@@ -1,0 +1,2 @@
+# parseobj
+smalle
