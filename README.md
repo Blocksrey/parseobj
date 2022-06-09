@@ -1,2 +1,2 @@
 # tiny.obj
-very, very smalle.
+very, very smalle
