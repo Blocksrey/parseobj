@@ -1,2 +1,2 @@
-# parseobj
-smalle
+# tiny.obj
+very, very smalle.
